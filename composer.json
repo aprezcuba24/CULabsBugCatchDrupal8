@@ -1,0 +1,17 @@
+{
+    "name": "culabs/bugcatch-drupal8-module",
+    "type": "drupal-module",
+    "description": "Integrate BugCatch in Drupal8",
+    "keywords": ["drupal-bundle", "Bug", "BugCatch", "Drupal8"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renier Ricardo Figueredo",
+            "email": "aprezcuba24@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "culabs/bugcatch": "dev-master"
+    }
+}

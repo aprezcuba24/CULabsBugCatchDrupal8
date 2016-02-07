@@ -1,0 +1,5 @@
+services:
+  boot_subscriber:
+    class: Drupal\bugcatch\ExceptionSubscriber
+    tags:
+      - {name: event_subscriber}

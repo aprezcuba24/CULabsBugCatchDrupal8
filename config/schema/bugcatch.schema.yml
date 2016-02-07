@@ -1,0 +1,8 @@
+bugcatch.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    bugcatch_apikey:
+      type: string
+    bugcatch_active:
+      type: boolean

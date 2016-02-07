@@ -1,0 +1,6 @@
+name: BugCatch
+description: Integration with www.bugcatches.com
+package: contrib
+
+type: module
+core: 8.x
