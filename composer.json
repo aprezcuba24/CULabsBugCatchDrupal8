@@ -2,7 +2,7 @@
     "name": "culabs/bugcatchdrupal8",
     "type": "drupal-module",
     "description": "Integrate BugCatch in Drupal8",
-    "keywords": ["drupal-bundle", "Bug", "BugCatch", "Drupal8"],
+    "keywords": ["drupal-bundle", "Bug", "BugCatch", "Drupal8", "error handler"],
     "license": "MIT",
     "authors": [
         {
