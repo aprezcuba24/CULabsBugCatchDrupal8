@@ -13,5 +13,6 @@
     ],
     "require": {
         "culabs/bugcatch": "dev-master"
-    }
+    },
+    "target-dir": "bugcatch"
 }
