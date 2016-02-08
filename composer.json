@@ -1,5 +1,5 @@
 {
-    "name": "culabs/bugcatch-drupal8-module",
+    "name": "culabs/bugcatchDrupal8Module",
     "type": "drupal-module",
     "description": "Integrate BugCatch in Drupal8",
     "keywords": ["drupal-bundle", "Bug", "BugCatch", "Drupal8"],
@@ -13,6 +13,5 @@
     ],
     "require": {
         "culabs/bugcatch": "dev-master"
-    },
-    "target-dir": "bugcatch"
+    }
 }
